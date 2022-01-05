@@ -1,0 +1,153 @@
+body {margin: auto;
+width: 1110px;
+margin-right: auto;
+margin-left: auto;}
+        .cards {background-color:#34547A;
+            box-sizing: border-box;  
+        width: 1110px;
+        margin-right: auto;
+        margin-left: auto;}
+        .second {margin-right: auto;
+        margin-left: auto;}
+        
+        
+
+        h1 {font-family:'Roboto', sans-serif;
+            font-weight: 500;
+            width: 500px;}
+        
+        p {display: inline-block;
+            font-family:'Roboto', sans-serif;
+            font-weight: 400;
+            width: 540px;
+            color: #727272;} 
+        a { display: inline-block;
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 18px;
+            letter-spacing: 0.1em;
+            text-decoration: none;
+            color: black;
+            text-align: center;} 
+        .first { width: 541px;
+            font-style: Medium;
+            Font-size: 28px;
+            margin-bottom: 45px;
+            }
+        .first.text {width: 540px;
+            margin-bottom: 54px;}
+        div .botton {display: inline-block;
+            box-sizing: border-box;
+            color: #FFFFFF;
+            padding: 25px 85px;
+            background-color:#34547A;}
+       
+
+        .blanc { display: inline-block;
+            margin-top: 18px;
+            margin-right: 42px;
+            padding-bottom: 160px;}
+
+        .blanc.lop {color: #34547A;
+        margin-right: 42px;}
+          
+        .cards.top {background-color:#EEEFF1;}
+
+        .cards.middle1 {display: inline-block;
+            box-sizing: border-box;
+            background-color: #FFFFFF;}
+        .second {
+            text-align: center;
+            width: 540px;
+            margin-top: 112px;
+            margin-bottom: 42px;
+            background-color: #FFFFFF;}
+        .second.text {text-align: center;
+            width: 540px;
+            margin-top: 112px;
+            margin-bottom: 89px;
+            background-color: #FFFFFF;}
+       
+
+        .cards.blocks {display: inline-block;
+        box-sizing: border-box;
+         color: #FFFFFF;
+         background-color:  #34547A;
+         margin-top: 100px;
+        }
+        .block {display: inline-block;
+            box-sizing: border-box;
+            margin-right: 20px;
+            margin-top: 100px;
+            margin-bottom: 100px;}
+        .bl {display: inline-block;
+            box-sizing: border-box;
+            margin-right: 48.2px;
+            margin-bottom: 100px;}
+
+        .cards.middle2 {background-color: #EEEFF1;
+                box-sizing: border-box;
+                width: 1110px;
+                text-align: center;
+                margin-right: auto; 
+                margin-left: auto;} 
+        .third {display: inline-block;
+                box-sizing: border-box;
+                margin-top:100px;
+                margin-bottom:42px;
+                text-align: center;
+                color: black;
+                font-style: 32px;
+                line-height: 38px;
+                line-height: 101.33%;
+                text-align: Center;
+                vertical-align: Center;
+                }     
+         .third.text {display: inline-block;
+            box-sizing: border-box;
+            width: 1110px;
+            margin-bottom: 46px; 
+            line-height: 26px;
+            line-height: 138.67%;
+            text-align: Center;
+            vertical-align: Center;
+            }
+
+        video {display: inline-block;
+            box-sizing: border-box;
+            width: 1110px;
+            height: 600px;
+            margin-top: 100px;
+            margin-left: 0;
+            margin-right: 0;}   
+        .vid {display: inline-block;
+            box-sizing: border-box;
+            margin-bottom: 100px;
+            margin-left: 0;
+            margin-right: 0;}
+
+     .cards.fourth {display: inline-block;
+            box-sizing: border-box; 
+            background-color: #34547A;;
+            width: 1110px;
+            color:#FFFFFF;
+            }
+        .fourth {display: inline-block;
+            box-sizing: border-box;
+            color:#FFFFFF;
+            margin-top: 50px;
+            margin-left: 0px;
+            text-align: left;
+            width: 1110px;
+           }
+        .fourth.text {display: inline-block;
+            box-sizing: border-box;
+            color:#FFFFFF;
+            text-align: left;
+            width: 1110px;
+            margin-bottom: 47px;
+            margin-top: 15px; }
+            
+        
